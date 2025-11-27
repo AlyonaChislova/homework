@@ -1,0 +1,4 @@
+sample_id,cell_type,treatment,replicate,concentration_uM,total_proteins,unique_peptides,contamination_level
+Sample_5,HeLa,Drug_A,2.0,10.0,,,
+Sample_6,Primary,Drug_C,1.0,100.0,,,
+Sample_7,,,,,2600.0,16200.0,0.04
